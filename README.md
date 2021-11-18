@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @IbrahimDayax
+- 👋 Hi, I’m @IbrahimDayax, currently a junior c++ developer
 - 👀 I’m interested in Artificial Intelligence, Quantum Computing, Cyber Security, Crypto and WEB3.
-- 🌱 I’m currently learning Computer Engineering (Artificial Intelligence) at UCSI University
+- 🌱 I’m currently learning Computer Engineering & Artificial Intelligence at UCSI University
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on twitter @ibrahim_dayax
 
