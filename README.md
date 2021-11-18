@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IbrahimDayax
 - 👀 I’m interested in Artificial Intelligence, Quantum Computing, Cyber Security, Crypto and WEB3.
-- 🌱 I’m currently learning Computer Engineering (Artificial Intelligence) at UCSI UNiversity
+- 🌱 I’m currently learning Computer Engineering (Artificial Intelligence) at UCSI University
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on twitter @ibrahim_dayax
 
