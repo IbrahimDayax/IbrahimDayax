@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @IbrahimDayax, currently a junior c++ developer
-- 👀 I’m interested in Artificial Intelligence, Quantum Computing, Cyber Security, Crypto and WEB3.
+- 👋 Hi, I’m @IbrahimDayax, I'm currently learning full-stack development on freeCodeCamp.
+- 👀 I’m interested in Artificial Intelligence, WEB3 , Quantum Computing, Cyber Security and Crypto.
 - 🌱 I’m currently learning Computer Engineering & Artificial Intelligence at UCSI University
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me on twitter @ibrahim_dayax
+- 📫 You can reach me on twitter @1brahimAK
 
 <!---
 IbrahimDayax/IbrahimDayax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
