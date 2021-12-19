@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IbrahimDayax, I'm a junior C++ developer currently learning full-stack JavaScript on freeCodeCamp.
+- 👋 Hi, I’m @IbrahimDayax, I'm a Front End Developer working towards becoming a Full Stack Developer.
 - 👀 I’m interested in Artificial Intelligence, WEB3 , Quantum Computing, Cyber Security and Crypto.
 - 🌱 I’m currently studying Computer Engineering & Artificial Intelligence at UCSI University
 - 💞️ I’m looking to collaborate on ...
