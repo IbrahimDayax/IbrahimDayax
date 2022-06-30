@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IbrahimDayax and I am currently a Software Developer.
+- 👋 Hi, I’m @IbrahimDayax and I am currently a Software Engineer.
 - 👀 I’m interested in Artificial Intelligence and Cyber Security.
 - 🌱 I’m currently studying Computer Engineering & Artificial Intelligence at UCSI University
 - 💞️ I’m looking to collaborate on anything interesting.
