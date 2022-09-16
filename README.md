@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence and Cyber Security.
 - 🌱 I’m currently studying Computer Engineering & Artificial Intelligence at UCSI University
 - 💞️ I’m looking to collaborate on anything interesting.
-- 📫 You can reach me on twitter @ibrahimdotjs
+- 📫 You can reach me on twitter @ibrahimdotpy
 
 <!---
 IbrahimDayax/IbrahimDayax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
