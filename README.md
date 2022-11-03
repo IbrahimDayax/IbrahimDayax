@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence, Data Science, Chip Design and Cyber Security.
 - 🌱 I’m currently studying Computer Engineering & Artificial Intelligence at UCSI University
 - 💞️ I’m looking to collaborate on anything interesting.
-- 📫 You can reach me on twitter @ibrahimdotpy
+- 📫 You can reach me on LinkedIn: https://my.linkedin.com/in/ibrahimdayax
 
 <!---
 IbrahimDayax/IbrahimDayax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
