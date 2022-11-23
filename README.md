@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IbrahimDayax and I am currently a Machine Learning Engineer, Computer Hardware Engineer & a Data Scientist.
+- 👋 Hi, I’m @IbrahimDayax and I am currently a Full-Stack Web Developer, Machine Learning Engineer & a Data Scientist.
 - 👀 I’m interested in Artificial Intelligence, Data Science, Chip Design and Cyber Security.
 - 🌱 I’m currently studying Computer Engineering & Artificial Intelligence at UCSI University
 - 💞️ I’m looking to collaborate on anything interesting.
