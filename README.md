@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IbrahimDayax and I am currently an AI/ML Engineer, Full-Stack Developer & a Data Scientist.
+- 👋 Hi, I’m @IbrahimDayax and I am currently an AI/ML Engineer, Full-Stack Developer & an IC Design/Test Engineer.
 - 👀 I’m interested in Artificial Intelligence, Data Science, and Cyber Security.
 - 🌱 I’m currently a senior at UCSI University majoring in Computer Engineering & minoring in AI
 - 💞️ I’m looking to collaborate on anything interesting.
