@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IbrahimDayax and I am currently an AI/ML Engineer, Full Stack Developer & soon to be Data Scientist.
+- 👋 Hi, I’m @IbrahimDayax and I'm an AI/ML Engineer, Full Stack Developer & Data Scientist.
 - 👀 I’m interested in Artificial Intelligence, Data Science and Cyber Security.
 - 🌱 I have a Masters degree in AI from the University of Malaya and have a Bachelors degree in Computer Engineering & AI from UCSI.
 - 💞️ I’m actively looking for a job and willing to collaborate on anything interesting.
